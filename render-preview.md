@@ -68,17 +68,16 @@ Q1 2012 | HMH-466, "Wolfpack" (later designated as HMH-465 "Warhorse")
 15OCT2018 | Armor Composite Platoon, Battalion Landing Team 3/1
 22APR2019 | VMA-214 “Black Sheep”
 
-† - sections that have since closed
-** - sections that have since closed and reopened
+† - sections that have since closed <br> ** - sections that have since closed and reopened
 
 On top of these additions, the inner workings of the unit have grown to accommodate the manpower required to run a behemoth like the 15th. Each S-denoted section serves as a specific vertebrae on a delicate spine that carries the weight of the MEU.
 
 These sections are:
-S-1 Personnel
-S-2 Intelligence
-S-3 Training and Operations
-S-4 Logistics
-S-9 Civil Affairs
+ * S-1 Personnel
+ * S-2 Intelligence
+ * S-3 Training and Operations
+ * S-4 Logistics
+ * S-9 Civil Affairs
 
 To also cope with the growing numbers and possible tensions that may rise when hundreds of unknowns get together, the MEU currently has several Unit Counselors in service who welcome all members with open doors in the occasion of a unit related dispute.
 
@@ -195,5 +194,5 @@ Should any new members join the unit and bring with them two or more friends tha
 
 In the interest of fairness the 15th MEU (SOC) does not recognize other unit’s ranks or real military ranks for transfer into the unit. There is no real way to confirm a person’s status in the real world without a meet and greet and that is not going to be conducted or authorized by the Command Staff. Other unit ranks are not recognized because we do not know what their promotion guidelines are like and how a member became a certain rank within that organization. In short, everyone earns their rank in the 15th MEU (SOC) from the ground up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NjU5MzEwXX0=
+eyJoaXN0b3J5IjpbMjE0MTgzMDgwMiw0MDc2NTkzMTBdfQ==
 -->
