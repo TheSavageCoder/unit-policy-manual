@@ -28,7 +28,6 @@ Date      | Element Name
 14APR2008 | Weapons platoon, Echo Company
 Unknown Date | VMFA-323, "Death Rattlers", Exact date unknown †
 15JUN2009 | 2nd Platoon, Charlie Company, "War Pigs" †
-
 15JUN2009 | 3rd Platoon, Alpha Company, "Spectre" †
 Q1 2012 | HMH-466, "Wolfpack" (later designated as HMH-465 "Warhorse") 
 30APR2013 | Foxtrot Company, 2nd Battalion, 4th Marines "Haymaker" †
@@ -39,13 +38,36 @@ Q1 2012 | HMH-466, "Wolfpack" (later designated as HMH-465 "Warhorse")
 29JUN2014 | VMM-165 “White Knights” †
 01JUL2014 | VMA-211 “Wake Island Avengers” †
 21JUL2014 | Golf Company, 2nd Battalion, 4th Marines “Raider” †
-15NOV2015
-15th MEU Cadet Corps “Condor, “Poacher” and “Challenger” †
-15OCT2018
-22APR2019
-Armor Composite Platoon, Battalion Landing Team 3/1
-VMA-214 “Black Sheep”
+15NOV2015 | 15th MEU Cadet Corps “Condor, “Poacher” and “Challenger” †
+15OCT2018 | Armor Composite Platoon, Battalion Landing Team 3/1
+22APR2019 | VMA-214 “Black Sheep”
 
+† - sections that have since closed
+** - sections that have since closed and reopened
+
+On top of these additions, the inner workings of the unit have grown to accommodate the manpower required to run a behemoth like the 15th. Each S-denoted section serves as a specific vertebrae on a delicate spine that carries the weight of the MEU.
+
+These sections are:
+S-1 Personnel
+S-2 Intelligence
+S-3 Training and Operations
+S-4 Logistics
+S-9 Civil Affairs
+
+To also cope with the growing numbers and possible tensions that may rise when hundreds of unknowns get together, the MEU currently has several Unit Counselors in service who welcome all members with open doors in the occasion of a unit related dispute.
+
+Along with new elements, the MEU has also seen a wide range of schools and courses
+put into use during its lifespan. These include the Flight School, ITB, MCT, FMSS, Leadership courses, specific MOS training, and different Range Courses to name a few.
+
+Back when the unit was taking its first steps, the only actual course you had to take was Recruit Training. The Recruit Training document currently in use has an edit history all the way back to 2007, when the unit was first founded, making it the oldest training document in use.
+
+In its current state, the 15th MEU stands as one of the largest and most popular realism units out on the market, satisfying online gamers with "as-close-as-you-want-to-get" Marine action.
+
+On January 28, 2013. The 15th MEU surpassed 1000 trained recruits. On May 16, 2014 the 2000th recruit joined the unit, with the 3000th member joining August 27, 2016.
+
+LtCol Saarema
+S-9 Unit Historian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjAzNzQzMywtMjEzNzMzMzM2OF19
+eyJoaXN0b3J5IjpbLTE0ODMzNDM2NTAsLTIxMzczMzMzNjhdfQ
+==
 -->
