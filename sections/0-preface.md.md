@@ -18,11 +18,24 @@ As the 15th MEU steadily grew, it added new billets and new supporting elements 
 
 The sections that have at one point or another been added to the 15th MEU are:
 
-|  |  |
+| Date | Element Name |
 |--|--|
-|  |  |
+26NOV2007 | 1st Platoon, Delta Company, 1st Tank Battalion, "Spartans" †
+
+29DEC2007 | Combat Logistics Battalion 15, "Burbank" ** †
+
+26JAN2008 | VMA-513 "Flying Nightmares" †
+
+26JAN2008 | VMM-268 "Red Dragons" †
+
+14APR2008 | 2nd Platoon, Bravo Company, "Gators" †
+
+14APR2008 | Weapons platoon, Echo Company
+
+Unknown Date | VMFA-323, "Death Rattlers", Exact date unknown †
+
+15JUN2009 | 2nd Platoon, Charlie Company, "War Pigs" †
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkzMjMzNjksLTIxMzczMzMzNjhdfQ
-==
+eyJoaXN0b3J5IjpbMTkwODUzMTg1NywtMjEzNzMzMzM2OF19
 -->
