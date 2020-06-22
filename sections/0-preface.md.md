@@ -18,24 +18,34 @@ As the 15th MEU steadily grew, it added new billets and new supporting elements 
 
 The sections that have at one point or another been added to the 15th MEU are:
 
-| Date | Element Name |
-|--|--|
+Date      | Element Name
+----------|--------------
 26NOV2007 | 1st Platoon, Delta Company, 1st Tank Battalion, "Spartans" †
-
 29DEC2007 | Combat Logistics Battalion 15, "Burbank" ** †
-
 26JAN2008 | VMA-513 "Flying Nightmares" †
-
 26JAN2008 | VMM-268 "Red Dragons" †
-
 14APR2008 | 2nd Platoon, Bravo Company, "Gators" †
-
 14APR2008 | Weapons platoon, Echo Company
-
 Unknown Date | VMFA-323, "Death Rattlers", Exact date unknown †
-
 15JUN2009 | 2nd Platoon, Charlie Company, "War Pigs" †
 
+15JUN2009 | 3rd Platoon, Alpha Company, "Spectre" †
+Q1 2012 | HMH-466, "Wolfpack" (later designated as HMH-465 "Warhorse") 
+30APR2013 | Foxtrot Company, 2nd Battalion, 4th Marines "Haymaker" †
+13NOV2013 | India Battery 3/12, "Battlestar" †
+12JAN2014 | Joint Terminal Attack Controllers "Griffon" and "Havoc"
+26FEB2014 | VMFA(AW)-255, "Vikings" †
+03MAR2014 | 1st Platoon, Charlie Company, 1st LAR Battalion, "Marauder" †
+29JUN2014 | VMM-165 “White Knights” †
+01JUL2014 | VMA-211 “Wake Island Avengers” †
+21JUL2014 | Golf Company, 2nd Battalion, 4th Marines “Raider” †
+15NOV2015
+15th MEU Cadet Corps “Condor, “Poacher” and “Challenger” †
+15OCT2018
+22APR2019
+Armor Composite Platoon, Battalion Landing Team 3/1
+VMA-214 “Black Sheep”
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODUzMTg1NywtMjEzNzMzMzM2OF19
+eyJoaXN0b3J5IjpbLTU0NjAzNzQzMywtMjEzNzMzMzM2OF19
 -->
