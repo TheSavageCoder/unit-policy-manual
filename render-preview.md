@@ -24,11 +24,14 @@
   </details>
   
   <details>
-  * [2-4. Basic Training](#2-4-basic-training)
-    + [2-4.A. Recruit Training](#2-4a-recruit-training)
-    + [2-4.B School of Infantry](#2-4b-school-of-infantry)
+	  <summary>[2-4. Basic Training](#2-4-basic-training)</summary>
+	  
+  * [2-4.A. Recruit Training](#2-4a-recruit-training)
+  * [2-4.B School of Infantry](#2-4b-school-of-infantry)
       - [2-4.B.1 Infantry Training Battalion](#2-4b1-infantry-training-battalion)
       - [2-4.B.2 Fleet Medical Training Battalion](#2-4b2-fleet-medical-training-battalion)
+  </details>
+  
   * [2-5. Personnel Assignment Policy](#2-5-personnel-assignment-policy)
   * [2-6. Military Occupational Specialty Training](#2-6-military-occupational-specialty-training)
   * [2-7. Points and Rifle Range Qualifications](#2-7-points-and-rifle-range-qualifications)
@@ -207,6 +210,6 @@ Should any new members join the unit and bring with them two or more friends tha
 
 In the interest of fairness the 15th MEU (SOC) does not recognize other unit’s ranks or real military ranks for transfer into the unit. There is no real way to confirm a person’s status in the real world without a meet and greet and that is not going to be conducted or authorized by the Command Staff. Other unit ranks are not recognized because we do not know what their promotion guidelines are like and how a member became a certain rank within that organization. In short, everyone earns their rank in the 15th MEU (SOC) from the ground up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAzNzg2OTQsMjE0MTgzMDgwMiw0MD
-c2NTkzMTBdfQ==
+eyJoaXN0b3J5IjpbLTExNzM4MjM3MiwyMTQxODMwODAyLDQwNz
+Y1OTMxMF19
 -->
