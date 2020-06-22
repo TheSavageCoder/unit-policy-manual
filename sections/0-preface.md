@@ -42,7 +42,8 @@ Q1 2012 | HMH-466, "Wolfpack" (later designated as HMH-465 "Warhorse")
 15OCT2018 | Armor Composite Platoon, Battalion Landing Team 3/1
 22APR2019 | VMA-214 “Black Sheep”
 
-† - sections that have since closed 
+† - sections that have since closed
+
 ** - sections that have since closed and reopened
 
 On top of these additions, the inner workings of the unit have grown to accommodate the manpower required to run a behemoth like the 15th. Each S-denoted section serves as a specific vertebrae on a delicate spine that carries the weight of the MEU.
@@ -68,5 +69,5 @@ On January 28, 2013. The 15th MEU surpassed 1000 trained recruits. On May 16, 20
 LtCol Saarema
 S-9 Unit Historian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDM4OTQzMCwtMTQ4MzM0MzY1MF19
+eyJoaXN0b3J5IjpbMTgyMDY4MzM0LC0xNDgzMzQzNjUwXX0=
 -->
