@@ -12,8 +12,7 @@ Logo: Main is modified official 15th MEU Logo, Merchandise is Crossed Rifles, Wa
 
 This section denotes the unit’s minimum size. Closure of the sections/elements listed below is not authorized without the rescindment of this policy.
 
- * 1x Rifle Platoon (2x Infantry Squads) w/ attached Corpsman and HQ
- * 1/3x Weapons Platoon (1x MG Squad) w/ attached Corpsman and HQ
+ * 1x Rifle Platoon (2x Infantry Squads) w/ attached Corpsman, HQ, and 1x Weapons MG Squad
  * 2x M1A1 Abrams Tanks
  * 1x UH-1Y Huey
  * 1x AH-1Z Cobra
