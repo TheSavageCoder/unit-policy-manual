@@ -2,10 +2,17 @@
 
 - [Preface](#preface)
 - [Unit History](#unit-history)
-- [Section 1 - Unit Charter](#section-1---unit-charter)
+
+<details>
+	<summary>[Section 1 - Unit Charter](#section-1---unit-charter)</summary>
+	
   * [1-1. Unit Identity](#1-1-unit-identity)
   * [1-2. Base Sections](#1-2-base-sections)
   * [1-3. Mission Statement](#1-3-mission-statement)
+</details>
+
+<details>
+  <
 - [Section 2 - New Join Policy](#section-2---new-join-policy)
   * [2-1. Overview](#2-1-overview)
   * [2-2. Qualification](#2-2-qualification)
@@ -23,6 +30,7 @@
   * [2-8. 30 Day Billet Lock Policy](#2-8-30-day-billet-lock-policy)
   * [2-9. Special Recruiting Policies](#2-9-special-recruiting-policies)
   * [2-10. Restrictions](#2-10-restrictions)
+</details>
 
 # Preface
 
@@ -194,5 +202,6 @@ Should any new members join the unit and bring with them two or more friends tha
 
 In the interest of fairness the 15th MEU (SOC) does not recognize other unit’s ranks or real military ranks for transfer into the unit. There is no real way to confirm a person’s status in the real world without a meet and greet and that is not going to be conducted or authorized by the Command Staff. Other unit ranks are not recognized because we do not know what their promotion guidelines are like and how a member became a certain rank within that organization. In short, everyone earns their rank in the 15th MEU (SOC) from the ground up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTgzMDgwMiw0MDc2NTkzMTBdfQ==
+eyJoaXN0b3J5IjpbLTE1NzU5MzEzMTQsMjE0MTgzMDgwMiw0MD
+c2NTkzMTBdfQ==
 -->
