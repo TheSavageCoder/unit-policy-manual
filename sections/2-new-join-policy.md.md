@@ -67,10 +67,12 @@ New recruits entering the Recruit Pipeline may attend training outside of the Sc
 Upon completion of recruit training, you will select an MOS. After that selection you will be locked into that MOS for 30 days. 
 
 ## 2-9. Special Recruiting Policies
+
 Should any new members join the unit and bring with them two or more friends that complete SOI, we will allow one of the group members to be authorized a meritorious promotion to the rank of Private First Class. The group members must decide who among them shall receive this meritorious promotion. Should the members not agree then no meritorious promotion shall be authorized. This promotion does not come with a guarantee of a leadership billet. Additionally, if six or more members of a group complete SOI, one of the members is authorized meritorious Lance Corporal and one member meritorious Private First Class with the same guidelines of selection as above. No other meritorious promotions are authorized.
 
-2-10. Restrictions
+## 2-10. Restrictions
+
 In the interest of fairness the 15th MEU (SOC) does not recognize other unit’s ranks or real military ranks for transfer into the unit. There is no real way to confirm a person’s status in the real world without a meet and greet and that is not going to be conducted or authorized by the Command Staff. Other unit ranks are not recognized because we do not know what their promotion guidelines are like and how a member became a certain rank within that organization. In short, everyone earns their rank in the 15th MEU (SOC) from the ground up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNjk3Nzk4XX0=
+eyJoaXN0b3J5IjpbMTM3MTkxMDZdfQ==
 -->
