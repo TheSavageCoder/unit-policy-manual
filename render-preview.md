@@ -12,13 +12,18 @@
 </details>
 
 <details>
-  <
-- [Section 2 - New Join Policy](#section-2---new-join-policy)
+  <summary>[Section 2 - New Join Policy](#section-2---new-join-policy)</summary>
+  
   * [2-1. Overview](#2-1-overview)
   * [2-2. Qualification](#2-2-qualification)
-  * [2-3. Standardized Application Process](#2-3-standardized-application-process)
-    + [2-3.A. Multi-Membership](#2-3a-multi-membership)
-    + [2-3.B. Returning Members](#2-3b-returning-members)
+  <details>
+    <summary>[2-3. Standardized Application Process](#2-3-standardized-application-process)</summary>
+    
+   * [2-3.A. Multi-Membership](#2-3a-multi-membership)
+   * [2-3.B. Returning Members](#2-3b-returning-members)
+  </details>
+  
+  <details>
   * [2-4. Basic Training](#2-4-basic-training)
     + [2-4.A. Recruit Training](#2-4a-recruit-training)
     + [2-4.B School of Infantry](#2-4b-school-of-infantry)
@@ -202,6 +207,6 @@ Should any new members join the unit and bring with them two or more friends tha
 
 In the interest of fairness the 15th MEU (SOC) does not recognize other unit’s ranks or real military ranks for transfer into the unit. There is no real way to confirm a person’s status in the real world without a meet and greet and that is not going to be conducted or authorized by the Command Staff. Other unit ranks are not recognized because we do not know what their promotion guidelines are like and how a member became a certain rank within that organization. In short, everyone earns their rank in the 15th MEU (SOC) from the ground up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU5MzEzMTQsMjE0MTgzMDgwMiw0MD
+eyJoaXN0b3J5IjpbLTEwNTAzNzg2OTQsMjE0MTgzMDgwMiw0MD
 c2NTkzMTBdfQ==
 -->
